@@ -1,0 +1,18 @@
+03-09-2022
+
+Project Particle Hunt
+Meet 1
+
+Discussion:
+
+- Brief introduction about working of cloud chambers
+- Peltier devices use and testing
+- Project scope (Stage 2- Measurement)
+- Meet on every Friday and Saturday (Could be changed)
+
+- TO DO TASK NEXT WEEK
+
+1) Finalize components 
+2) Variation of voltage with Del T (at constant current) of Peltier module mounted on a heat sink
+
+
