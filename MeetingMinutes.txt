@@ -16,3 +16,11 @@ Discussion:
 2) Variation of voltage with Del T (at constant current) of Peltier module mounted on a heat sink
 
 
+27-09-2022
+Meet 3
+
+-Ordered component discussion
+-GM counter - Drishti, Sunidhi
+-Tesla Coil - Anjum, Jishnu
+-Placed some electronic components on designated cupboard
+-Garba
