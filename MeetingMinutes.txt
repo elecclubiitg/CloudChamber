@@ -15,6 +15,19 @@ Discussion:
 1) Finalize components 
 2) Variation of voltage with Del T (at constant current) of Peltier module mounted on a heat sink
 
+10-09-2022
+
+project particle hunt
+Meet 2
+
+Discussion:
+
+- Stacked peltiers
+- Analysis of temperature difference of peltiers
+- role of heat sink and paste
+- Power supply in use
+- Various tracks discussion
+- TND (XD)
 
 27-09-2022
 Meet 3
