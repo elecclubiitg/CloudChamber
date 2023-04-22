@@ -13,10 +13,20 @@ As the charged ions travel through the vapor, they attract water molecules creat
 
 
 ### Project veterans
-i) Anindya Biswas  
-ii) Koustub G Rao  
-iii) Raveena Kumari  
-iv) Naman Jain  
+i)   Amit  
+ii)  Abinav Mittal  
+iii) Anup Singh  
+iv)  Amit Singh  
+v)   Rajeshwari  
+vi)  Saurabh Rai  
+vii) Rohan Sharma  
+viii) Yash Tiwari  
+ix) Tanya Gupta  
+x) Bhavya Ashok Thacker  
+xi) Tarang  
+xii) Anjum Ulazim  
+xiii) Chavan Kalyani Kishor  
+xiv) Shriya Surya  
 
 &nbsp;
 
